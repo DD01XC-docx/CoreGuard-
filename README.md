@@ -20,7 +20,7 @@
 
 | Component          | Tools / Libraries                                |
 |--------------------|--------------------------------------------------|
-| Language           | C++17 or C++20                                   |
+| Language           | C++20                                            |
 | Filesystem         | `std::filesystem`, `std::ifstream`               |
 | Multithreading     | `std::thread`                                    |
 | Hashing            | Crypto++ or custom SHA256 implementation         |
