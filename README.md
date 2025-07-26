@@ -1,6 +1,6 @@
 # 🛡 CoreGuard
 
-**CoreGuard** is a minimalist signature-based antivirus engine written in modern C++17/20, designed for learning and demonstrating core principles of static malware detection.
+**CoreGuard** is a minimalist signature-based antivirus engine written in modern C++20, designed for learning and demonstrating core principles of static malware detection.
 
 ---
 
