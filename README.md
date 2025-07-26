@@ -23,7 +23,7 @@
 | Language           | C++20                                            |
 | Filesystem         | `std::filesystem`, `std::ifstream`               |
 | Multithreading     | `std::thread`                                    |
-| Hashing            | Crypto++ or custom SHA256 implementation         |
+| Hashing            | SHA256 implementation                            |
 | JSON Parsing       | [`nlohmann/json`](https://github.com/nlohmann/json) |
 | File Monitoring    | WinAPI / inotify                                 |
 | Build System       | CMake                                            |
